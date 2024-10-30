@@ -22,7 +22,7 @@ section{
     animation: animateBg 50s linear infinite;
 }
 
-@keyframes animateBg{
+keyframes animateBg{
     0%,100%{
         transform: scale(1);
     }
@@ -51,7 +51,7 @@ span::before{
     height: 1px;
     background: linear-gradient(90deg,#fff,transparent);
 }
-@keyframes animate
+keyframes animate
 {
     0%
     {
