@@ -54,7 +54,7 @@ span::before{
 {
     0%
     {
-        transform: rotate(270deg) translateX(0);
+        transform: rotate(315deg) translateX(0);
         opacity: 1;
     }
     70%
@@ -63,7 +63,7 @@ span::before{
     }
     100%
     {
-        transform: rotate(270deg) translateX(-1000px);
+        transform: rotate(315deg) translateX(-1000px);
         opacity: 0;
     }
 }
