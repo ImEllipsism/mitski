@@ -63,7 +63,7 @@ span::before{
     }
     100%
     {
-        transform: rotate(927deg) translateX(-1000px);
+        transform: rotate(270deg) translateX(-1000px);
         opacity: 0;
     }
 }
