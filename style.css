@@ -21,7 +21,7 @@ section{
     animation: animateBg 50s linear infinite;
 }
 
-@keyframes animateBg{
+@keyframes animateBgg{
     0%,100%{
         transform: scale(1);
     }
